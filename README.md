@@ -1,6 +1,6 @@
 # quasar-data-ml-model
 model based on an opensource astronomical dataset 
-# in process
+# still raw!!!
 
 astroml+astropy, jupyter, numpy, matplotlib, scipy ... (the list is not full still)
 
