@@ -7,6 +7,11 @@ the model uses SDSS quasars dataset, which includes right ascension, declination
 
 dataset: https://classic.sdss.org/dr7/products/value_added/qsocat_dr7.php
 
+## feature distribution(50 bins)
+
+![image](https://github.com/equqe/quasar-data-ml-model/assets/145790372/6b7766af-9d9d-4399-a29d-6e7f4919ed34)
+
+
 ## the magnitude and its error in SDSS and 2MASS filters(50 bins)
 
 ![image](https://github.com/equqe/astronomical-data-ml-model/assets/145790372/fb85f16f-2ab0-44e9-be6a-9f1146a93e13)
