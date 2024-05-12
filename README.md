@@ -11,5 +11,8 @@ dataset: https://classic.sdss.org/dr7/products/value_added/qsocat_dr7.php
 
 ![image](https://github.com/equqe/astronomical-data-ml-model/assets/145790372/fb85f16f-2ab0-44e9-be6a-9f1146a93e13)
 
+## analysis of the features 
+![image](https://github.com/equqe/quasar-data-ml-model/assets/145790372/02c8e77b-85e9-42b0-a1ac-03db3b09ed56)
+
 
 !in process!
