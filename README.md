@@ -18,6 +18,8 @@ dataset: https://classic.sdss.org/dr7/products/value_added/qsocat_dr7.php
 
 ## analysis of the features 
 ![image](https://github.com/equqe/quasar-data-ml-model/assets/145790372/02c8e77b-85e9-42b0-a1ac-03db3b09ed56)
+![image](https://github.com/equqe/quasar-data-ml-model/assets/145790372/e0599bc9-b573-41c7-a55d-28f68ddef16c)
+
 
 
 !in process!
