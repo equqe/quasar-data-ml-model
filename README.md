@@ -21,7 +21,7 @@ as we see:
 - 80.95% of the features have the float32 type, 9.52% have the float64 type, 4.76% have the int64 type and another 4.76% have the object type
 - there are no missing values, all columns have 105783 non-empty values
 
-now let's look at the distribution of features(how many unique values there are in each feature):
+now let's look at the distribution of features (how many unique values there are in each feature):
 
 ![image](https://github.com/equqe/quasar-data-ml-model/assets/145790372/4b8e3718-d4e5-4859-9c40-7f048f1334d8)
 
